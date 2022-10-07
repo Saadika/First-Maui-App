@@ -1,0 +1,1 @@
+C:\Users\saadi\source\repos\MyFirstMauiApp\MyFirstMauiApp\MyFirstMauiApp.csproj;x64
